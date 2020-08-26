@@ -1,0 +1,31 @@
+// 系统独有的变量色值
+$blueColor:#1890FF;
+$greenColor:#00BFA5;
+$redColor:#FF5252;
+$pink:#5271FD;
+$green:#17B4A9;
+$yello:#FF9B46;
+$red:#E94B4C;
+$blue:#5097EF;
+$purple:#8867FF;
+$gray:#CCCCCC;
+$number:#3A77CC;
+//系统首页渐变颜色配置
+.liner-pink{
+    background:linear-gradient(105deg,#5271FD,#CA7AFD);
+}
+.liner-green{
+    background:linear-gradient(105deg,#17B4A9,#47D9B2);
+}
+.liner-yello{
+    background:linear-gradient(105deg,#FF9B46,#FFCB63);
+}
+.liner-red{
+    background:linear-gradient(105deg,#E94B4C,#F79596);
+}
+.liner-blue{
+    background:linear-gradient(105deg,#5097EF,#52C4E6);
+}
+.liner-purple{
+    background:linear-gradient(105deg,#8867FF,#5361F3);
+}
